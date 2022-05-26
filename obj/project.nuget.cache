@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9jEWaUswanPja5Cr/zgWmPVbKpBXfxa9uvHndIpbQOfvtH4dKsR1oMtDD9JDjCuTBJs6msEDVg1Koxk2rzU8Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\ConsoleGUS\\ConsoleGUS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
